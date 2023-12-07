@@ -12,7 +12,7 @@ const Modal = (props) => {
         opacity: 0,
         visibility: 'hidden'
     }
-
+///styles
     const transitionStyles = {
         entering: { opacity: 1, visibility: 'visible' },
         entered: { opacity: 1, visibility: 'visible' },
